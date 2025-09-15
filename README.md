@@ -17,11 +17,12 @@ A static website for F4 Logistics — a student-led logistics business project.
 
 ## File Structure
 f4-logistics/
-│-- assets/          
-│-- index.html
-│-- style.css
-│-- README.md
-│-- .gitignore
+│
+├─ assets/ # Images, icons, fonts, etc.
+├─ index.html # Main HTML file
+├─ style.css # Main CSS file
+├─ README.md # Project documentation
+└─ .gitignore # Git ignore rules
 
 
 ## How to View
