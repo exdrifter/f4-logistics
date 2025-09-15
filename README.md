@@ -16,14 +16,15 @@ A static website for F4 Logistics — a student-led logistics business project.
 - Footer
 
 ## File Structure
+```
 f4-logistics/
 │
-├─ assets/ # Images, icons, fonts, etc.
+├─ assets/ # Images
 ├─ index.html # Main HTML file
 ├─ style.css # Main CSS file
 ├─ README.md # Project documentation
 └─ .gitignore # Git ignore rules
-
+```
 
 ## How to View
 Open `index.html` directly in a browser, or deploy via GitHub Pages:
@@ -36,5 +37,5 @@ Open `index.html` directly in a browser, or deploy via GitHub Pages:
 - F4 
     - Katrina Francheska A. Sunga
     - Andy A. Tan Jr.
-    - Carlo Omana
+    - Carlo M. Omaña
     - John Kervin A. Hermoso
