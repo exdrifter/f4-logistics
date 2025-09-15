@@ -34,6 +34,6 @@ Open `index.html` directly in a browser, or deploy via GitHub Pages:
 ## Authors
 - F4 
     - Katrina Francheska A. Sunga
-    - Andy Jr. A. Tan
+    - Andy A. Tan Jr.
     - Carlo Omana
     - John Kervin A. Hermoso
