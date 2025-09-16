@@ -40,5 +40,5 @@ Open `index.html` directly in a browser, or deploy via GitHub Pages:
     - Carlo M. Omaña
     - John Kervin A. Hermoso
 
-## Preview Imagaes
+## Preview Images
 - [Link - f4-logistics](https://drive.google.com/drive/folders/1MbXdt0h6FhrdDZxedW9_Cv4bbIVzA4U9?usp=sharing)
